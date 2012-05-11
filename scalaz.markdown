@@ -51,5 +51,6 @@ Misc. videos
 A few additions to these:
 
  * Missing: Rex Kerr Scalaz Intro 
+ * (Rex Kerr's Validation examples](https://gist.github.com/970717)
  * [Validation examples from the sources](http://scalaz.googlecode.com/svn/continuous/latest/browse.sxr/scalaz/example/ExampleValidation.scala.html)
 
