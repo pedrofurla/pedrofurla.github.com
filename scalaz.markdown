@@ -4,6 +4,8 @@ title: ScalaZ resources
 
 A good starting place <http://hacking-scala.posterous.com/scalaz-resources-for-beginners>
 
+---
+
 Some links gathered by [Yuvi Masory](http://yuvimasory.com/) and sent to the [PHASE](http://www.meetup.com/scala-phase/) mailing list.
 
  * <http://debasishg.blogspot.com/2010/11/exploring-scalaz.html>
@@ -12,7 +14,7 @@ Some links gathered by [Yuvi Masory](http://yuvimasory.com/) and sent to the [PH
  * <http://debasishg.blogspot.com/2011/07/monad-transformers-in-scala.html>
  * <http://debasishg.blogspot.com/2010/12/case-study-of-cleaner-composition-of.html>
 
-The examples from ScalaZ sources             
+The examples from ScalaZ sources 
  * <https://github.com/scalaz/scalaz/tree/master/example/src/main/scala/scalaz/example>
 
 Apolisp's 
@@ -27,11 +29,14 @@ Apolisp's
 ScalaZ operator cheat sheet: 
  * <https://gist.github.com/1712108>
 
+
 Learn you a scalaZ: 
  * <https://github.com/jrwest/learn_you_a_scalaz>
 
+
 The Typeclass Pattern - An Alternative to Inheritance by Seth Tissue 
  * <http://www.youtube.com/watch?v=yYo0gANYViE> 
+
 
 Misc. videos 
  * <http://www.scala-blogs.org/2010/03/scalaz-introductory-talks.html>
