@@ -18,7 +18,7 @@ The examples from ScalaZ sources
 
   * <https://github.com/scalaz/scalaz/tree/master/example/src/main/scala/scalaz/example>
 
-Apolisp's 
+Apocalisp's 
  * <http://apocalisp.wordpress.com/2010/06/14/on-monoids/>
  * <http://apocalisp.wordpress.com/2010/07/21/more-on-monoids-and-monads/>
  * <http://apocalisp.wordpress.com/2010/10/17/scalaz-tutorial-enumeration-based-io-with-iteratees/>
