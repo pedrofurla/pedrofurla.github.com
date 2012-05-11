@@ -16,7 +16,7 @@ Some links gathered by [Yuvi Masory](http://yuvimasory.com/) and sent to the [PH
 
 The examples from ScalaZ sources
 
- * <https://github.com/scalaz/scalaz/tree/master/example/src/main/scala/scalaz/example>
+  * <https://github.com/scalaz/scalaz/tree/master/example/src/main/scala/scalaz/example>
 
 Apolisp's 
  * <http://apocalisp.wordpress.com/2010/06/14/on-monoids/>
@@ -29,22 +29,22 @@ Apolisp's
 
 ScalaZ operator cheat sheet 
 
- * <https://gist.github.com/1712108>
+  * <https://gist.github.com/1712108>
 
 
 Learn you a scalaZ 
 
- * <https://github.com/jrwest/learn_you_a_scalaz>
+  * <https://github.com/jrwest/learn_you_a_scalaz>
 
 
 The Typeclass Pattern - An Alternative to Inheritance by Seth Tissue 
 
- * <http://www.youtube.com/watch?v=yYo0gANYViE> 
+  * <http://www.youtube.com/watch?v=yYo0gANYViE> 
 
 
 Misc. videos 
 
- * <http://www.scala-blogs.org/2010/03/scalaz-introductory-talks.html>
+  * <http://www.scala-blogs.org/2010/03/scalaz-introductory-talks.html>
 
 ---
 
