@@ -4,7 +4,7 @@ title: ScalaZ resources
 
 A good starting place <http://hacking-scala.posterous.com/scalaz-resources-for-beginners>
 
-Some links gathered by [http://yuvimasory.com/](Yuvi Masory) and sent to the [http://www.meetup.com/scala-phase/](PHASE) mailing list.
+Some links gathered by [Yuvi Masory](http://yuvimasory.com/) and sent to the [PHASE](http://www.meetup.com/scala-phase/) mailing list.
 
  * <http://debasishg.blogspot.com/2010/11/exploring-scalaz.html>
  * <http://debasishg.blogspot.com/2010/12/composable-domain-models-using-scalaz.html>
@@ -24,16 +24,16 @@ Apolisp's
  * <http://apocalisp.wordpress.com/2011/01/10/functional-programming-for-beginners/>
  * <http://apocalisp.wordpress.com/2012/02/26/scalaz-functional-programming-in-scala/>
 
-ScalaZ operator cheat sheet:
+ScalaZ operator cheat sheet: 
  * <https://gist.github.com/1712108>
 
-Learn you a scalaZ:
+Learn you a scalaZ: 
  * <https://github.com/jrwest/learn_you_a_scalaz>
 
-The Typeclass Pattern - An Alternative to Inheritance by Seth Tissue
+The Typeclass Pattern - An Alternative to Inheritance by Seth Tissue 
  * <http://www.youtube.com/watch?v=yYo0gANYViE> 
 
-Misc. videos
+Misc. videos 
  * <http://www.scala-blogs.org/2010/03/scalaz-introductory-talks.html>
 
 ---
