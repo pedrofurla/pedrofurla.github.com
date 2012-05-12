@@ -50,7 +50,7 @@ Misc. videos
 
 ---
 
-A few additions to these:
+A few additions to those:
 
  * Missing: Rex Kerr Scalaz Intro 
  * [Rex Kerr's Validation examples](https://gist.github.com/970717)
