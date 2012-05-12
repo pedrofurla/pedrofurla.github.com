@@ -2,6 +2,8 @@
 title: ScalaZ resources
 ---
 
+## ScalaZ resources ##
+
 A good starting place <http://hacking-scala.posterous.com/scalaz-resources-for-beginners>
 
 ---
