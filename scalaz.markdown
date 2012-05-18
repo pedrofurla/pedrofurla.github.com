@@ -57,4 +57,6 @@ A few additions to those:
  * [Validation examples from the sources](http://scalaz.googlecode.com/svn/continuous/latest/browse.sxr/scalaz/example/ExampleValidation.scala.html)
  * <http://hseeberger.wordpress.com/2010/11/25/introduction-to-category-theory-in-scala/>
  * <http://stackoverflow.com/questions/4863671/good-scalaz-introduction>
+ * <http://blog.tmorris.net/the-writer-monad-using-scala-example/>
+ * <http://etorreborre.blogspot.com.br/2011/06/essence-of-iterator-pattern.html>
 
