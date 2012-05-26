@@ -59,4 +59,5 @@ A few additions to those:
  * <http://stackoverflow.com/questions/4863671/good-scalaz-introduction>
  * <http://blog.tmorris.net/the-writer-monad-using-scala-example/>
  * <http://etorreborre.blogspot.com.br/2011/06/essence-of-iterator-pattern.html>
+ * <https://github.com/mpilquist/scalaz-talk>
 
