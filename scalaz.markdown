@@ -61,7 +61,7 @@ A few additions to those:
  * <http://etorreborre.blogspot.com.br/2011/06/essence-of-iterator-pattern.html>
  * <https://github.com/mpilquist/scalaz-talk>
 
- Some Tony Morris presentations about the Reader and Writer Monad:
+ Some Tony Morris presentations about the Reader and Writer Monad (from https://groups.google.com/forum/?fromgroups=#!topic/scala-user/O8udPVbdg_c):
 
-
-
+ * [Logging Without Side-effects - an introduction to the writer monad](http://dl.dropbox.com/u/7810909/docs/writer-monad/chunk-html/index.html)
+ * [Configuration Without the Bugs and Gymnastics](http://dl.dropbox.com/u/7810909/docs/reader-monad/chunk-html/index.html)
