@@ -1,5 +1,5 @@
 ---
-title: ScalaZ resources
+title: ScalaZ learning resources
 ---
 
 ## ScalaZ resources ##
@@ -60,4 +60,8 @@ A few additions to those:
  * <http://blog.tmorris.net/the-writer-monad-using-scala-example/>
  * <http://etorreborre.blogspot.com.br/2011/06/essence-of-iterator-pattern.html>
  * <https://github.com/mpilquist/scalaz-talk>
+
+ Some Tony Morris presentations about the Reader and Writer Monad:
+
+
 
