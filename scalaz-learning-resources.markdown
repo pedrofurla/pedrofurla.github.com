@@ -65,3 +65,5 @@ A few additions to those:
 
  * [Logging Without Side-effects - an introduction to the writer monad](http://dl.dropbox.com/u/7810909/docs/writer-monad/chunk-html/index.html)
  * [Configuration Without the Bugs and Gymnastics](http://dl.dropbox.com/u/7810909/docs/reader-monad/chunk-html/index.html)
+ 
+ * [Monad Transformers in Scalamachine & Scaliak by Rob Nikzad](http://marakana.com/s/post/1232/video_monad_transformers_in_scalamachine_scaliak)
