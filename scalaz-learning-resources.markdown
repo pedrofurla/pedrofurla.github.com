@@ -61,9 +61,11 @@ A few additions to those:
  * <http://etorreborre.blogspot.com.br/2011/06/essence-of-iterator-pattern.html>
  * <https://github.com/mpilquist/scalaz-talk>
 
- Some Tony Morris presentations about the Reader and Writer Monad (from https://groups.google.com/forum/?fromgroups=#!topic/scala-user/O8udPVbdg_c):
+Some Tony Morris presentations about the Reader and Writer Monad (from https://groups.google.com/forum/?fromgroups=#!topic/scala-user/O8udPVbdg_c):
 
  * [Logging Without Side-effects - an introduction to the writer monad](http://dl.dropbox.com/u/7810909/docs/writer-monad/chunk-html/index.html)
  * [Configuration Without the Bugs and Gymnastics](http://dl.dropbox.com/u/7810909/docs/reader-monad/chunk-html/index.html)
- 
- * [Monad Transformers in Scalamachine & Scaliak by Rob Nikzad](http://marakana.com/s/post/1232/video_monad_transformers_in_scalamachine_scaliak)
+
+Even more on this topic.
+
+ * [Monad Transformers in Scalamachine & Scaliak by Rob Nikzad](http://marakana.com/s/post/1232/video_monad_transformers_in_scalamachine_scaliak) - Also introduces some ScalaZ's fundamental concepts.
