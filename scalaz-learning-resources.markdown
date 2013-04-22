@@ -69,3 +69,4 @@ Some Tony Morris presentations about the Reader and Writer Monad (from https://g
 Even more on this topic.
 
  * [Monad Transformers in Scalamachine & Scaliak by Rob Nikzad](http://marakana.com/s/post/1232/video_monad_transformers_in_scalamachine_scaliak) - Also introduces some ScalaZ's fundamental concepts.
+ * [Exercises on implementing Reader, Writer and State monads in Scala](http://www.folone.info/scala/scalaz/en/2012/10/19/Reader-Writer-State.html)
