@@ -4,6 +4,8 @@ title: ScalaZ learning resources
 
 ## ScalaZ resources ##
 
+A panflet e-book by [Eugene Yakota](https://github.com/eed3si9n) - [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
+
 A good starting place <http://hacking-scala.posterous.com/scalaz-resources-for-beginners>
 
 ---
@@ -60,6 +62,7 @@ A few additions to those:
  * <http://blog.tmorris.net/the-writer-monad-using-scala-example/>
  * <http://etorreborre.blogspot.com.br/2011/06/essence-of-iterator-pattern.html>
  * <https://github.com/mpilquist/scalaz-talk>
+ * Tony presents [Folds](http://tmorris.net/posts/list-folds-bfpg/index.html) - a nice intro on reasoning and understanding foldl, foldr, foldLeft and foldRight. Mostly Haskell but fully appliable to Scala
 
 Some Tony Morris presentations about the Reader and Writer Monad (from https://groups.google.com/forum/?fromgroups=#!topic/scala-user/O8udPVbdg_c):
 
