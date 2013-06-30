@@ -47,7 +47,7 @@ The Typeclass Pattern - An Alternative to Inheritance by Seth Tissue
 
 Learning ScalaZ by Eugene Yakota
 
-  * <http://eed3si9n.com/learning-scalaz/polymorphism.html> 
+  * <http://eed3si9n.com/learning-scalaz/polymorphism.html>  
 
 Misc. videos 
 
