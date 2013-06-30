@@ -49,6 +49,10 @@ Misc. videos
 
   * <http://www.scala-blogs.org/2010/03/scalaz-introductory-talks.html>
 
+Tony's type class hierarchy
+
+  * <http://blog.tmorris.net/posts/scala-type-class-hierarchy/>
+
 ---
 
 A few additions to those:
