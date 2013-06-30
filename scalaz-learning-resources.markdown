@@ -45,8 +45,6 @@ The Typeclass Pattern - An Alternative to Inheritance by Seth Tissue
 
   * <http://www.youtube.com/watch?v=yYo0gANYViE> 
 
- 
-
 Misc. videos 
 
   * <http://www.scala-blogs.org/2010/03/scalaz-introductory-talks.html>
@@ -62,10 +60,10 @@ A few additions to those:
  * <http://stackoverflow.com/questions/4863671/good-scalaz-introduction>
  * <http://blog.tmorris.net/the-writer-monad-using-scala-example/>
  * <http://etorreborre.blogspot.com.br/2011/06/essence-of-iterator-pattern.html>
- * <https://github.com/mpilquist/scalaz-talk>
+ * [https://github.com/mpilquist/scalaz-talk](https://github.com/mpilquist/scalaz-talk)
  * Tony presents [Folds](http://tmorris.net/posts/list-folds-bfpg/index.html) - a nice intro on reasoning and understanding foldl, foldr, foldLeft and foldRight. Mostly Haskell but fully appliable to Scala
 
-Some Tony Morris presentations about the Reader and Writer Monad (from https://groups.google.com/forum/?fromgroups=#!topic/scala-user/O8udPVbdg_c):
+Some Tony Morris presentations about the Reader and Writer Monad (from <https://groups.google.com/forum/?fromgroups=#!topic/scala-user/O8udPVbdg_c>):
 
  * [Logging Without Side-effects - an introduction to the writer monad](http://dl.dropbox.com/u/7810909/docs/writer-monad/chunk-html/index.html)
  * [Configuration Without the Bugs and Gymnastics](http://dl.dropbox.com/u/7810909/docs/reader-monad/chunk-html/index.html)
