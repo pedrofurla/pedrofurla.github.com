@@ -6,7 +6,9 @@ title: ScalaZ learning resources
 
 A panflet e-book by [Eugene Yakota](https://github.com/eed3si9n) - [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 
-A good starting place <http://hacking-scala.posterous.com/scalaz-resources-for-beginners>
+A good starting place <http://hacking-scala.posterous.com/scalaz-resources-for-beginners> perhaps changed to <http://hacking-scala.tumblr.com/post/49050104489/scalaz-resources-for-beginners>
+
+[Seven at one blow](http://nescala.org/#t-62625592) - Lars Hupel shows what changed in ScalaZ 7
 
 ---
 
