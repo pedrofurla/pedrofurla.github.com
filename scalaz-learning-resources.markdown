@@ -1,4 +1,3 @@
-
 ---
 title: ScalaZ learning resources
 ---
@@ -25,7 +24,7 @@ The examples from ScalaZ sources
 
   * <https://github.com/scalaz/scalaz/tree/master/example/src/main/scala/scalaz/example>
 
-Apocalisp's 
+Apocalisp\'s 
  * <http://apocalisp.wordpress.com/2010/06/14/on-monoids/>
  * <http://apocalisp.wordpress.com/2010/07/21/more-on-monoids-and-monads/>
  * <http://apocalisp.wordpress.com/2010/10/17/scalaz-tutorial-enumeration-based-io-with-iteratees/>
@@ -52,7 +51,7 @@ Misc. videos
 
   * <http://www.scala-blogs.org/2010/03/scalaz-introductory-talks.html>
 
-Tony's type class hierarchy
+Tony\'s type class hierarchy
 
   * <http://blog.tmorris.net/posts/scala-type-class-hierarchy/>
 
