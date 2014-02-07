@@ -60,7 +60,7 @@ Tony\'s type class hierarchy
 A few additions to those:
 
  * Missing: Rex Kerr Scalaz Intro 
- * [Rex Kerr's Validation examples](https://gist.github.com/970717)
+ * [Rex Kerr\'s Validation examples](https://gist.github.com/970717)
  * [Validation examples from the sources](http://scalaz.googlecode.com/svn/continuous/latest/browse.sxr/scalaz/example/ExampleValidation.scala.html)
  * <http://hseeberger.wordpress.com/2010/11/25/introduction-to-category-theory-in-scala/>
  * <http://stackoverflow.com/questions/4863671/good-scalaz-introduction>
@@ -76,5 +76,5 @@ Some Tony Morris presentations about the Reader and Writer Monad (from <https://
 
 Even more on this topic.
 
- * [Monad Transformers in Scalamachine & Scaliak by Rob Nikzad](http://marakana.com/s/post/1232/video_monad_transformers_in_scalamachine_scaliak) - Also introduces some ScalaZ's fundamental concepts.
+ * [Monad Transformers in Scalamachine & Scaliak by Rob Nikzad](http://marakana.com/s/post/1232/video_monad_transformers_in_scalamachine_scaliak) - Also introduces some ScalaZ\'s fundamental concepts.
  * [Exercises on implementing Reader, Writer and State monads in Scala](http://www.folone.info/scala/scalaz/en/2012/10/19/Reader-Writer-State.html)
