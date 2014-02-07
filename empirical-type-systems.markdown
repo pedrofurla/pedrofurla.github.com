@@ -2,6 +2,7 @@
 title: Empirical studies on the impact of type systems
 ---
 
+
 ## Empirical studies on the impact of type systems ##
 
 
