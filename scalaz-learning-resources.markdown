@@ -33,27 +33,13 @@ Apocalisp\'s
  * <http://apocalisp.wordpress.com/2011/01/10/functional-programming-for-beginners/>
  * <http://apocalisp.wordpress.com/2012/02/26/scalaz-functional-programming-in-scala/>
 
-ScalaZ operator cheat sheet 
+Stuff:
 
-  * <https://gist.github.com/1712108>
-
-
-Learn you a scalaZ 
-
-  * <https://github.com/jrwest/learn_you_a_scalaz>
-
-
-The Typeclass Pattern - An Alternative to Inheritance by Seth Tissue 
-
-  * <http://www.youtube.com/watch?v=yYo0gANYViE> 
-
-Misc. videos 
-
-  * <http://www.scala-blogs.org/2010/03/scalaz-introductory-talks.html>
-
-Tony\'s type class hierarchy
-
-  * <http://blog.tmorris.net/posts/scala-type-class-hierarchy/>
+* [ScalaZ operator cheat sheet](https://gist.github.com/1712108)
+* [Learn you a scalaZ](https://github.com/jrwest/learn_you_a_scalaz)
+* [The Typeclass Pattern - An Alternative to Inheritance by Seth Tissue](http://www.youtube.com/watch?v=yYo0gANYViE)
+* <http://www.scala-blogs.org/2010/03/scalaz-introductory-talks.html>
+* [Tony\'s type class hierarchy](http://blog.tmorris.net/posts/scala-type-class-hierarchy/)
 
 ---
 
