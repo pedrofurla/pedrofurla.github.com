@@ -20,9 +20,6 @@ Some links gathered by [Yuvi Masory](http://yuvimasory.com/) and sent to the [PH
  * <http://debasishg.blogspot.com/2011/07/monad-transformers-in-scala.html>
  * <http://debasishg.blogspot.com/2010/12/case-study-of-cleaner-composition-of.html>
 
-The examples from ScalaZ sources
-
-  * <https://github.com/scalaz/scalaz/tree/master/example/src/main/scala/scalaz/example>
 
 Apocalisp\'s 
  * <http://apocalisp.wordpress.com/2010/06/14/on-monoids/>
@@ -35,6 +32,7 @@ Apocalisp\'s
 
 Stuff:
 
+* [The examples from ScalaZ sources](https://github.com/scalaz/scalaz/tree/master/example/src/main/scala/scalaz/example)
 * [ScalaZ operator cheat sheet](https://gist.github.com/1712108)
 * [Learn you a scalaZ](https://github.com/jrwest/learn_you_a_scalaz)
 * [The Typeclass Pattern - An Alternative to Inheritance by Seth Tissue](http://www.youtube.com/watch?v=yYo0gANYViE)
