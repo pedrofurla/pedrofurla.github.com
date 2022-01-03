@@ -1,6 +1,6 @@
 ##### Interesting things
 
- - [](https://cubical.1lab.dev/) learn about at https://twitter.com/plt_amy/status/1477725080813715458
+ - https://cubical.1lab.dev/ learn about at https://twitter.com/plt_amy/status/1477725080813715458
 
 ##### Emily Pillmore's PLT reading list:
 
